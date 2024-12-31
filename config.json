@@ -71,14 +71,6 @@
       "compressed_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.placeholder.jpg"
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "path": "./photos/1. Heena/IMG_6551.jpeg",
-      "compressed_path": "./photos/1. Heena/IMG_6551.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/1. Heena/IMG_6551.placeholder.jpeg"
     }
   ],
   "2. Her Smile": [
@@ -89,70 +81,6 @@
       "compressed_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.placeholder.jpg"
-    },
-    {
-      "width": 2062,
-      "height": 3664,
-      "path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.jpeg",
-      "compressed_path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.placeholder.jpeg"
-    },
-    {
-      "width": 282,
-      "height": 612,
-      "path": "./photos/2. Her Smile/lp_image (2).jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image (2).min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image (2).placeholder.jpeg"
-    },
-    {
-      "width": 282,
-      "height": 612,
-      "path": "./photos/2. Her Smile/lp_image (3).jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image (3).min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image (3).placeholder.jpeg"
-    },
-    {
-      "width": 282,
-      "height": 612,
-      "path": "./photos/2. Her Smile/lp_image-1.jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image-1.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image-1.placeholder.jpeg"
-    },
-    {
-      "width": 282,
-      "height": 612,
-      "path": "./photos/2. Her Smile/lp_image-2 (2).jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image-2 (2).min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image-2 (2).placeholder.jpeg"
-    },
-    {
-      "width": 338,
-      "height": 508,
-      "path": "./photos/2. Her Smile/lp_image-3.jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image-3.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image-3.placeholder.jpeg"
-    },
-    {
-      "width": 338,
-      "height": 508,
-      "path": "./photos/2. Her Smile/lp_image-4.jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image-4.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image-4.placeholder.jpeg"
-    },
-    {
-      "width": 282,
-      "height": 612,
-      "path": "./photos/2. Her Smile/lp_image.jpeg",
-      "compressed_path": "./photos/2. Her Smile/lp_image.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/2. Her Smile/lp_image.placeholder.jpeg"
     }
   ],
   "3. Heena and Pritish": [
@@ -167,26 +95,26 @@
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/3. Heena and Pritish/IMG_6549.jpeg",
-      "compressed_path": "./photos/3. Heena and Pritish/IMG_6549.min.jpeg",
+      "path": "./photos/3. Heena and Pritish/IMG_6549.jpg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6549.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6549.placeholder.jpeg"
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6549.placeholder.jpg"
     },
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/3. Heena and Pritish/IMG_6556.jpeg",
-      "compressed_path": "./photos/3. Heena and Pritish/IMG_6556.min.jpeg",
+      "path": "./photos/3. Heena and Pritish/IMG_6556.jpg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6556.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6556.placeholder.jpeg"
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6556.placeholder.jpg"
     },
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/3. Heena and Pritish/IMG_6557.jpeg",
-      "compressed_path": "./photos/3. Heena and Pritish/IMG_6557.min.jpeg",
+      "path": "./photos/3. Heena and Pritish/IMG_6557.jpg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6557.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6557.placeholder.jpeg"
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6557.placeholder.jpg"
     },
     {
       "width": 1170,
