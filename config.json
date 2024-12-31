@@ -1,110 +1,242 @@
 {
-  "Heena": [
-    {
-      "width": 2062,
-      "height": 3664,
-      "path": "./photos/Heena/0aa24f55-ed4d-4613-8fee-7a3971907ce8.jpg",
-      "compressed_path": "./photos/Heena/0aa24f55-ed4d-4613-8fee-7a3971907ce8.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Heena/0aa24f55-ed4d-4613-8fee-7a3971907ce8.placeholder.jpg"
-    },
+  "1. Heena": [
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.jpg",
-      "compressed_path": "./photos/Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.min.jpg",
+      "path": "./photos/1. Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.jpg",
+      "compressed_path": "./photos/1. Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.placeholder.jpg"
-    },
-    {
-      "width": 2062,
-      "height": 3664,
-      "path": "./photos/Heena/34074ade-84bb-4da2-9e6d-e53e41e322b1.jpg",
-      "compressed_path": "./photos/Heena/34074ade-84bb-4da2-9e6d-e53e41e322b1.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Heena/34074ade-84bb-4da2-9e6d-e53e41e322b1.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/2c8381d7-7590-4ac8-9005-2b2d2e80ed5f.placeholder.jpg"
     },
     {
       "width": 2316,
       "height": 3088,
-      "path": "./photos/Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.jpg",
-      "compressed_path": "./photos/Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.min.jpg",
+      "path": "./photos/1. Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.jpg",
+      "compressed_path": "./photos/1. Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/51b6c468-cdfa-4987-b0bf-f6e034f8c349.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.jpg",
-      "compressed_path": "./photos/Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.min.jpg",
+      "path": "./photos/1. Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.jpg",
+      "compressed_path": "./photos/1. Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/5d5717a0-96db-4fb5-b9b4-23e45e3ae712.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.jpg",
-      "compressed_path": "./photos/Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.min.jpg",
+      "path": "./photos/1. Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.jpg",
+      "compressed_path": "./photos/1. Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/6a88bf68-86e8-43b7-b794-ef9192c7a6d9.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.jpg",
-      "compressed_path": "./photos/Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.min.jpg",
+      "path": "./photos/1. Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.jpg",
+      "compressed_path": "./photos/1. Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/7b965c82-1ebc-4fd1-ac4c-9bc918ec4b6a.placeholder.jpg"
     },
     {
       "width": 2316,
       "height": 3088,
-      "path": "./photos/Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.jpg",
-      "compressed_path": "./photos/Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.min.jpg",
+      "path": "./photos/1. Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.jpg",
+      "compressed_path": "./photos/1. Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/87055384-d28c-49f2-8939-d51e2ff9dda1.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Heena/b9a22f01-e100-485e-a598-278b23074e9a.jpg",
-      "compressed_path": "./photos/Heena/b9a22f01-e100-485e-a598-278b23074e9a.min.jpg",
+      "path": "./photos/1. Heena/b9a22f01-e100-485e-a598-278b23074e9a.jpg",
+      "compressed_path": "./photos/1. Heena/b9a22f01-e100-485e-a598-278b23074e9a.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/b9a22f01-e100-485e-a598-278b23074e9a.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/b9a22f01-e100-485e-a598-278b23074e9a.placeholder.jpg"
     },
     {
       "width": 960,
       "height": 1280,
-      "path": "./photos/Heena/c107a6ca-12f9-4324-af14-d4f855924416.jpg",
-      "compressed_path": "./photos/Heena/c107a6ca-12f9-4324-af14-d4f855924416.min.jpg",
+      "path": "./photos/1. Heena/c107a6ca-12f9-4324-af14-d4f855924416.jpg",
+      "compressed_path": "./photos/1. Heena/c107a6ca-12f9-4324-af14-d4f855924416.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/c107a6ca-12f9-4324-af14-d4f855924416.placeholder.jpg"
-    },
-    {
-      "width": 2160,
-      "height": 3840,
-      "path": "./photos/Heena/d2143772-f47b-4686-8c93-f4fec05b14ff.jpg",
-      "compressed_path": "./photos/Heena/d2143772-f47b-4686-8c93-f4fec05b14ff.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Heena/d2143772-f47b-4686-8c93-f4fec05b14ff.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/c107a6ca-12f9-4324-af14-d4f855924416.placeholder.jpg"
     },
     {
       "width": 1170,
       "height": 2080,
-      "path": "./photos/Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.jpg",
-      "compressed_path": "./photos/Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.min.jpg",
+      "path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.jpg",
+      "compressed_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.placeholder.jpg"
+      "placeholder_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.placeholder.jpg"
     }
   ],
-  "Heena and Pritish": [
+  "2. Her Smile": [
+    {
+      "width": 2316,
+      "height": 3088,
+      "path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.jpg",
+      "compressed_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.placeholder.jpg"
+    }
+  ],
+  "3. Heena and Pritish": [
     {
       "width": 3664,
       "height": 2062,
-      "path": "./photos/Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.jpg",
-      "compressed_path": "./photos/Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.min.jpg",
+      "path": "./photos/3. Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.jpg",
+      "compressed_path": "./photos/3. Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.placeholder.jpg"
+      "placeholder_path": "./photos/3. Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.placeholder.jpg"
+    }
+  ],
+  "4. Her Love For Mirror Selfies": [
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/4. Her Love For Mirror Selfies/8881bf51-8100-4499-8341-846a866122e4.jpg",
+      "compressed_path": "./photos/4. Her Love For Mirror Selfies/8881bf51-8100-4499-8341-846a866122e4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/4. Her Love For Mirror Selfies/8881bf51-8100-4499-8341-846a866122e4.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/4. Her Love For Mirror Selfies/a15dba54-27d5-4deb-8c8e-a1ffb19e32c6.jpg",
+      "compressed_path": "./photos/4. Her Love For Mirror Selfies/a15dba54-27d5-4deb-8c8e-a1ffb19e32c6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/4. Her Love For Mirror Selfies/a15dba54-27d5-4deb-8c8e-a1ffb19e32c6.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/4. Her Love For Mirror Selfies/e833f4fa-48fa-4534-87da-4b4e65f04a8f.jpg",
+      "compressed_path": "./photos/4. Her Love For Mirror Selfies/e833f4fa-48fa-4534-87da-4b4e65f04a8f.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/4. Her Love For Mirror Selfies/e833f4fa-48fa-4534-87da-4b4e65f04a8f.placeholder.jpg"
+    }
+  ],
+  "5. Her Love for Snacks": [],
+  "6. Talk to The Hand Power Move": [],
+  "7. What Makes Her Special": [
+    {
+      "width": 3664,
+      "height": 2062,
+      "path": "./photos/7. What Makes Her Special/641c1048-b4b8-42b6-ac0f-171db8ccad36.jpg",
+      "compressed_path": "./photos/7. What Makes Her Special/641c1048-b4b8-42b6-ac0f-171db8ccad36.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/641c1048-b4b8-42b6-ac0f-171db8ccad36.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/7. What Makes Her Special/b6ce0699-df5c-4365-8336-0163dc84fd7f.jpg",
+      "compressed_path": "./photos/7. What Makes Her Special/b6ce0699-df5c-4365-8336-0163dc84fd7f.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/b6ce0699-df5c-4365-8336-0163dc84fd7f.placeholder.jpg"
+    },
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/7. What Makes Her Special/c09f0740-3bc1-4b43-9294-bc601ce1538e.jpg",
+      "compressed_path": "./photos/7. What Makes Her Special/c09f0740-3bc1-4b43-9294-bc601ce1538e.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/c09f0740-3bc1-4b43-9294-bc601ce1538e.placeholder.jpg"
+    }
+  ],
+  "8. Cuteness Overload": [
+    {
+      "width": 3664,
+      "height": 2062,
+      "path": "./photos/8. Cuteness Overload/1EB0800B-D65A-435C-98D5-6A2A3A8E606B.jpg",
+      "compressed_path": "./photos/8. Cuteness Overload/1EB0800B-D65A-435C-98D5-6A2A3A8E606B.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/1EB0800B-D65A-435C-98D5-6A2A3A8E606B.placeholder.jpg"
+    },
+    {
+      "width": 884,
+      "height": 1920,
+      "path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.jpg",
+      "compressed_path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.placeholder.jpg"
+    }
+  ],
+  "9. Our Feelings Conveyed Through Flowers": [
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/0aa24f55-ed4d-4613-8fee-7a3971907ce8.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/0aa24f55-ed4d-4613-8fee-7a3971907ce8.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/0aa24f55-ed4d-4613-8fee-7a3971907ce8.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/335f631d-6878-4975-b122-69bf86d408e7.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/335f631d-6878-4975-b122-69bf86d408e7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/335f631d-6878-4975-b122-69bf86d408e7.placeholder.jpg"
+    },
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/34074ade-84bb-4da2-9e6d-e53e41e322b1.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/34074ade-84bb-4da2-9e6d-e53e41e322b1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/34074ade-84bb-4da2-9e6d-e53e41e322b1.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/40c6962c-9657-428a-a104-cb5108eba79d.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/40c6962c-9657-428a-a104-cb5108eba79d.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/40c6962c-9657-428a-a104-cb5108eba79d.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/56f21471-f41c-49cb-81bc-f168c0c5031a.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/56f21471-f41c-49cb-81bc-f168c0c5031a.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/56f21471-f41c-49cb-81bc-f168c0c5031a.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/67c10f17-3a6d-4373-a077-60c52fe1ad5f.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/67c10f17-3a6d-4373-a077-60c52fe1ad5f.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/67c10f17-3a6d-4373-a077-60c52fe1ad5f.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/7dfdd205-dce3-47c4-b2e4-cf6e5cba5d88.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/7dfdd205-dce3-47c4-b2e4-cf6e5cba5d88.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/7dfdd205-dce3-47c4-b2e4-cf6e5cba5d88.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/acb2dfd3-48bb-4034-bc1c-f2c3a790c257.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/acb2dfd3-48bb-4034-bc1c-f2c3a790c257.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/acb2dfd3-48bb-4034-bc1c-f2c3a790c257.placeholder.jpg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/9. Our Feelings Conveyed Through Flowers/d2143772-f47b-4686-8c93-f4fec05b14ff.jpg",
+      "compressed_path": "./photos/9. Our Feelings Conveyed Through Flowers/d2143772-f47b-4686-8c93-f4fec05b14ff.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/9. Our Feelings Conveyed Through Flowers/d2143772-f47b-4686-8c93-f4fec05b14ff.placeholder.jpg"
     }
   ]
 }
