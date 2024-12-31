@@ -71,6 +71,14 @@
       "compressed_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/1. Heena/d62f6cf3-2d6a-4254-9e60-72599ee179d0.placeholder.jpg"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/1. Heena/IMG_6551.jpeg",
+      "compressed_path": "./photos/1. Heena/IMG_6551.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/1. Heena/IMG_6551.placeholder.jpeg"
     }
   ],
   "2. Her Smile": [
@@ -81,6 +89,70 @@
       "compressed_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/2. Her Smile/87055384-d28c-49f2-8939-d51e2ff9dda1.placeholder.jpg"
+    },
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.jpeg",
+      "compressed_path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/b4d1c981-b3a2-406c-ac17-7f157a64f842.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/2. Her Smile/lp_image (2).jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image (2).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/2. Her Smile/lp_image (3).jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image (3).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image (3).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/2. Her Smile/lp_image-1.jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image-1.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image-1.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/2. Her Smile/lp_image-2 (2).jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image-2 (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image-2 (2).placeholder.jpeg"
+    },
+    {
+      "width": 338,
+      "height": 508,
+      "path": "./photos/2. Her Smile/lp_image-3.jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image-3.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image-3.placeholder.jpeg"
+    },
+    {
+      "width": 338,
+      "height": 508,
+      "path": "./photos/2. Her Smile/lp_image-4.jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image-4.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image-4.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/2. Her Smile/lp_image.jpeg",
+      "compressed_path": "./photos/2. Her Smile/lp_image.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/2. Her Smile/lp_image.placeholder.jpeg"
     }
   ],
   "3. Heena and Pritish": [
@@ -91,6 +163,118 @@
       "compressed_path": "./photos/3. Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/3. Heena and Pritish/A617D705-1DA1-49FF-ACAA-233DD7A2571E.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/3. Heena and Pritish/IMG_6549.jpeg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6549.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6549.placeholder.jpeg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/3. Heena and Pritish/IMG_6556.jpeg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6556.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6556.placeholder.jpeg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/3. Heena and Pritish/IMG_6557.jpeg",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6557.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6557.placeholder.jpeg"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_6874.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6874.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6874.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_6880.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6880.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6880.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_6881.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6881.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6881.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_6902.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6902.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6902.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_6909.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_6909.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_6909.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7108.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7108.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7108.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7109.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7109.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7109.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7113.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7113.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7113.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7116.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7116.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7116.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7123.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7123.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7123.placeholder.png"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/3. Heena and Pritish/IMG_7140.png",
+      "compressed_path": "./photos/3. Heena and Pritish/IMG_7140.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/3. Heena and Pritish/IMG_7140.placeholder.png"
     }
   ],
   "4. Her Love For Mirror Selfies": [
@@ -117,10 +301,68 @@
       "compressed_path": "./photos/4. Her Love For Mirror Selfies/e833f4fa-48fa-4534-87da-4b4e65f04a8f.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/4. Her Love For Mirror Selfies/e833f4fa-48fa-4534-87da-4b4e65f04a8f.placeholder.jpg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/4. Her Love For Mirror Selfies/lp_image-4 (2).jpeg",
+      "compressed_path": "./photos/4. Her Love For Mirror Selfies/lp_image-4 (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/4. Her Love For Mirror Selfies/lp_image-4 (2).placeholder.jpeg"
     }
   ],
-  "5. Her Love for Snacks": [],
-  "6. Talk to The Hand Power Move": [],
+  "5. Her Love for Snacks": [
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/5. Her Love for Snacks/1dc91fe9-82b6-49e4-956c-f1a6fa1c6fa3.jpeg",
+      "compressed_path": "./photos/5. Her Love for Snacks/1dc91fe9-82b6-49e4-956c-f1a6fa1c6fa3.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5. Her Love for Snacks/1dc91fe9-82b6-49e4-956c-f1a6fa1c6fa3.placeholder.jpeg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/5. Her Love for Snacks/35f33bcc-81b6-4d5f-9ec0-dca26894037c.jpeg",
+      "compressed_path": "./photos/5. Her Love for Snacks/35f33bcc-81b6-4d5f-9ec0-dca26894037c.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5. Her Love for Snacks/35f33bcc-81b6-4d5f-9ec0-dca26894037c.placeholder.jpeg"
+    },
+    {
+      "width": 1080,
+      "height": 1920,
+      "path": "./photos/5. Her Love for Snacks/773e67e1-c5f5-4fc1-84d2-7aeefe667881.jpeg",
+      "compressed_path": "./photos/5. Her Love for Snacks/773e67e1-c5f5-4fc1-84d2-7aeefe667881.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5. Her Love for Snacks/773e67e1-c5f5-4fc1-84d2-7aeefe667881.placeholder.jpeg"
+    },
+    {
+      "width": 2160,
+      "height": 3840,
+      "path": "./photos/5. Her Love for Snacks/b24b2709-6b58-4320-aa06-e66196bfb5ee.jpeg",
+      "compressed_path": "./photos/5. Her Love for Snacks/b24b2709-6b58-4320-aa06-e66196bfb5ee.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5. Her Love for Snacks/b24b2709-6b58-4320-aa06-e66196bfb5ee.placeholder.jpeg"
+    },
+    {
+      "width": 3664,
+      "height": 2062,
+      "path": "./photos/5. Her Love for Snacks/F82C14D5-CB2C-4AD9-8AF0-76212474887F.jpeg",
+      "compressed_path": "./photos/5. Her Love for Snacks/F82C14D5-CB2C-4AD9-8AF0-76212474887F.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/5. Her Love for Snacks/F82C14D5-CB2C-4AD9-8AF0-76212474887F.placeholder.jpeg"
+    }
+  ],
+  "6. Talk to The Hand Power Move": [
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/6. Talk to The Hand Power Move/2ca71c01-4f2d-43cd-b95a-9947031b1350.jpeg",
+      "compressed_path": "./photos/6. Talk to The Hand Power Move/2ca71c01-4f2d-43cd-b95a-9947031b1350.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/6. Talk to The Hand Power Move/2ca71c01-4f2d-43cd-b95a-9947031b1350.placeholder.jpeg"
+    }
+  ],
   "7. What Makes Her Special": [
     {
       "width": 3664,
@@ -145,6 +387,70 @@
       "compressed_path": "./photos/7. What Makes Her Special/c09f0740-3bc1-4b43-9294-bc601ce1538e.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/7. What Makes Her Special/c09f0740-3bc1-4b43-9294-bc601ce1538e.placeholder.jpg"
+    },
+    {
+      "width": 1170,
+      "height": 2532,
+      "path": "./photos/7. What Makes Her Special/IMG_8372.png",
+      "compressed_path": "./photos/7. What Makes Her Special/IMG_8372.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/IMG_8372.placeholder.png"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image (4).jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image (4).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image (4).placeholder.jpeg"
+    },
+    {
+      "width": 338,
+      "height": 508,
+      "path": "./photos/7. What Makes Her Special/lp_image-1 (2).jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-1 (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-1 (2).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image-2.jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-2.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-2.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image-3 (2).jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-3 (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-3 (2).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image-5.jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-5.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-5.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image-6.jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-6.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-6.placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/7. What Makes Her Special/lp_image-7.jpeg",
+      "compressed_path": "./photos/7. What Makes Her Special/lp_image-7.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/7. What Makes Her Special/lp_image-7.placeholder.jpeg"
     }
   ],
   "8. Cuteness Overload": [
@@ -157,12 +463,60 @@
       "placeholder_path": "./photos/8. Cuteness Overload/1EB0800B-D65A-435C-98D5-6A2A3A8E606B.placeholder.jpg"
     },
     {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/8. Cuteness Overload/255bb6b9-bf0a-4a04-83b1-760fa5d072f2.jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/255bb6b9-bf0a-4a04-83b1-760fa5d072f2.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/255bb6b9-bf0a-4a04-83b1-760fa5d072f2.placeholder.jpeg"
+    },
+    {
+      "width": 2062,
+      "height": 3664,
+      "path": "./photos/8. Cuteness Overload/50db78ae-6eb5-4740-b08b-b2c25c9f357d.jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/50db78ae-6eb5-4740-b08b-b2c25c9f357d.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/50db78ae-6eb5-4740-b08b-b2c25c9f357d.placeholder.jpeg"
+    },
+    {
       "width": 884,
       "height": 1920,
       "path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.jpg",
       "compressed_path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/8. Cuteness Overload/e457f45b-1d9d-4565-a47d-17f235ac5069.placeholder.jpg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/8. Cuteness Overload/lp_image (2).jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/lp_image (2).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/lp_image (2).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/8. Cuteness Overload/lp_image (3).jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/lp_image (3).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/lp_image (3).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/8. Cuteness Overload/lp_image (4).jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/lp_image (4).min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/lp_image (4).placeholder.jpeg"
+    },
+    {
+      "width": 282,
+      "height": 612,
+      "path": "./photos/8. Cuteness Overload/lp_image-1.jpeg",
+      "compressed_path": "./photos/8. Cuteness Overload/lp_image-1.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/8. Cuteness Overload/lp_image-1.placeholder.jpeg"
     }
   ],
   "9. Our Feelings Conveyed Through Flowers": [
